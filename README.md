@@ -1,7 +1,7 @@
 # MySlider v1.0
 
 Плагин позволяет создавать таблицы умножения
-Для начала ознакомьтесь с  https://arthouse379.github.io/myslider_modul/docs/started-welcome.html.**
+Для начала ознакомьтесь с  https://arthouse379.github.io/mySlider_modul/docs/started-welcome.html.**
 
 ## Быстрый старт
 
